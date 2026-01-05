@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "53594f4bccfd736d",
+        "id": "f797eff69f60d9a3",
         "type": "tabs",
         "children": [
           {
-            "id": "739b758bf36a4670",
+            "id": "9b1695da9b1c3f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/posts/芝士派.md",
+                "file": "src/content/posts/CHEESESENSE 芝士派丨对话王琼：武大教授如何穿越创业康波周期？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "芝士派"
+              "title": "CHEESESENSE 芝士派丨对话王琼：武大教授如何穿越创业康波周期？"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/content/posts/芝士派.md",
+                "file": "src/content/posts/CHEESESENSE 芝士派丨对话王琼：武大教授如何穿越创业康波周期？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "芝士派 的反向链接列表"
+              "title": "CHEESESENSE 芝士派丨对话王琼：武大教授如何穿越创业康波周期？ 的反向链接列表"
             }
           },
           {
@@ -184,8 +183,13 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "e1d4b53a9ce81f51",
+  "active": "9b1695da9b1c3f3f",
   "lastOpenFiles": [
+    "src/content/posts/芝士派丨对话王琼：武大教授如何穿越创业康波周期？.md",
+    "src/content/posts/CHEESESENSE 芝士派丨对话王琼：武大教授如何穿越创业康波周期？.md",
+    "screenshots.png",
+    "README.md",
+    "未命名.base",
     "src/content/posts/astro-api-reference-reference-api-reference.md",
     "public/favicon.svg",
     "public/blog-placeholder-about.jpg",
@@ -194,7 +198,6 @@
     "public/blog-placeholder-3.jpg",
     "public/blog-placeholder-2.jpg",
     "public/blog-placeholder-1.jpg",
-    "未命名.base",
     "src/content/posts/welcome-world-guides-migrate-to-astro.md",
     "src/content/posts/welcome-world-tutorial-0-introduction.md",
     "src/content/posts/welcome-world-guides-deploy.md",
@@ -202,13 +205,10 @@
     "src/content/posts/assets-guides-styling.md",
     "src/content/posts/assets-guides-fonts.md",
     "src/content/posts/assets-guides-images.md",
-    "src/content/posts/芝士派丨对话王琼：武大教授如何穿越创业康波周期？.md",
     "src/content/posts/routes-and-navigation-guides-internationalization.md",
     "src/content/posts/astro-api-reference-reference-modules-astro-transitions.md",
     "src/content/posts/astro-api-reference-reference-modules-astro-assets.md",
     "src/content/posts/assets-guides-media.md",
-    "src/content/posts/astro-api-reference-reference-modules-astro-middleware.md",
-    "README.md",
-    "screenshots.png"
+    "src/content/posts/astro-api-reference-reference-modules-astro-middleware.md"
   ]
 }
