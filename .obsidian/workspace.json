@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/posts/CHEESESENSE 芝士派丨对话王琼：武大教授如何穿越创业康波周期？.md",
+                "file": "src/content/posts/芝士派丨对话王琼：武大教授如何穿越创业康波周期？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHEESESENSE 芝士派丨对话王琼：武大教授如何穿越创业康波周期？"
+              "title": "芝士派丨对话王琼：武大教授如何穿越创业康波周期？"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "earn-the-basics-basics-astro-pages",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/content/posts/CHEESESENSE 芝士派丨对话王琼：武大教授如何穿越创业康波周期？.md",
+                "file": "src/content/posts/芝士派丨对话王琼：武大教授如何穿越创业康波周期？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "CHEESESENSE 芝士派丨对话王琼：武大教授如何穿越创业康波周期？ 的反向链接列表"
+              "title": "芝士派丨对话王琼：武大教授如何穿越创业康波周期？ 的反向链接列表"
             }
           },
           {
@@ -185,29 +186,33 @@
   },
   "active": "9b1695da9b1c3f3f",
   "lastOpenFiles": [
+    "src/content/posts/assets-guides-fonts.md",
+    "src/content/posts/20251201.md",
     "src/content/posts/芝士派丨对话王琼：武大教授如何穿越创业康波周期？.md",
-    "src/content/posts/CHEESESENSE 芝士派丨对话王琼：武大教授如何穿越创业康波周期？.md",
-    "screenshots.png",
+    "src/content/posts/public/assets/601cf5c6ae12e9ec8ddc12fd628f3c51.png",
+    "src/content/posts/public/assets/f3eca6c61a15faa18688772781463ec8.png",
+    "src/content/posts/public/assets/bd6b5c961e35d6b87cce7308209f0f68.png",
+    "src/content/posts/public/assets/d23a1812a2144f65bd1519ad9e0a8685.png",
+    "src/content/posts/public/assets/8ddd835f021025ffd3d62a37e3557601.png",
+    "src/content/posts/public/assets/96aba2e83ebcf0ec1fb01e2f0680e545.jpg",
+    "src/content/posts/public/assets/a49cc1460f17d86944bc190e7d463056.png",
+    "src/content/posts/public/assets/e68fe7450453b32e1b7488ba7f2f5099.png",
+    "src/content/posts/public/assets/4ee19379f4d839476ec6920d5a8d7cdb.png",
+    "src/content/posts/public/assets",
+    "src/content/posts/public",
+    "public/blog-placeholder-about.jpg",
+    "src/content/posts/astro-api-reference-reference-modules-astro-actions.md",
+    "src/content/posts/assets-guides-images.md",
+    "src/content/posts/astro-api-reference-reference-modules-astro-transitions.md",
+    "src/content/posts/astro-api-reference-reference-modules-astro-assets.md",
+    "src/content/posts/assets-guides-styling.md",
     "README.md",
     "未命名.base",
     "src/content/posts/astro-api-reference-reference-api-reference.md",
-    "public/favicon.svg",
-    "public/blog-placeholder-about.jpg",
-    "public/blog-placeholder-5.jpg",
-    "public/blog-placeholder-4.jpg",
-    "public/blog-placeholder-3.jpg",
-    "public/blog-placeholder-2.jpg",
-    "public/blog-placeholder-1.jpg",
     "src/content/posts/welcome-world-guides-migrate-to-astro.md",
     "src/content/posts/welcome-world-tutorial-0-introduction.md",
     "src/content/posts/welcome-world-guides-deploy.md",
-    "src/content/posts/astro-api-reference-reference-modules-astro-actions.md",
-    "src/content/posts/assets-guides-styling.md",
-    "src/content/posts/assets-guides-fonts.md",
-    "src/content/posts/assets-guides-images.md",
     "src/content/posts/routes-and-navigation-guides-internationalization.md",
-    "src/content/posts/astro-api-reference-reference-modules-astro-transitions.md",
-    "src/content/posts/astro-api-reference-reference-modules-astro-assets.md",
     "src/content/posts/assets-guides-media.md",
     "src/content/posts/astro-api-reference-reference-modules-astro-middleware.md"
   ]
