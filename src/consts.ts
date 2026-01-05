@@ -9,14 +9,14 @@ export const LIGHT_THEME = 'corporate';
 export const DARK_THEME = 'halloween';
 
 // Tags Page Metadata, src/pages/tags/index.astro
-export const Tags_TITLE = "AstroMelody - All Tags";
+export const Tags_TITLE = "芝士派 CHEESESENSE - All Tags";
 export const Tags_DESCRIPTION =
-  "AstroMelody - All tags and the count of articles related to each tag";
+  "芝士派 CHEESESENSE - All tags and the count of articles related to each tag";
 
 // Tags Page Metadata, src/pages/tags/[tag]/[page].astro
 export function getTagMetadata(tag: string) {
   return {
-    title: `All articles on '${tag}' tag in AstroMelody`,
+    title: `All articles on '${tag}' tag in 芝士派 CHEESESENSE`,
     description: `Explore articles about ${tag} for different perspectives and in-depth analysis.`,
   };
 }
@@ -24,8 +24,8 @@ export function getTagMetadata(tag: string) {
 // Category Page Metadata, src/pages/category/[category]/[page].astro
 export function getCategoryMetadata(category: string) {
   return {
-    title: `All articles in '${category}' category in AstroMelody`,
-    description: `Browse all articles under the ${category} category in AstroMelody`,
+    title: `All articles in '${category}' category in 芝士派 CHEESESENSE`,
+    description: `Browse all articles under the ${category} category in 芝士派 CHEESESENSE`,
   };
 }
 
@@ -47,12 +47,12 @@ export const FooterLinks = [
 export const SocialLinks = [
   { href: "/rss.xml", icon: "icon-[tabler--rss]", label: "RSS" },
   {
-    href: "https://twitter.com/astrodotbuild",
+    href: "https://x.com/WPS_Office",
     icon: "icon-[tabler--brand-twitter]",
     label: "Twitter",
   },
   {
-    href: "https://github.com/ouranoshong/astro-melody-starter",
+    href: "https://github.com/cabdesign",
     icon: "icon-[tabler--brand-github]",
     label: "GitHub",
   },
