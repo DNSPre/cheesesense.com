@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "earn-the-basics-basics-astro-pages",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,11 +183,11 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "9b1695da9b1c3f3f",
+  "active": "559db22a2727ea68",
   "lastOpenFiles": [
     "src/content/posts/assets-guides-fonts.md",
-    "src/content/posts/20251201.md",
     "src/content/posts/芝士派丨对话王琼：武大教授如何穿越创业康波周期？.md",
+    "src/content/posts/20251201.md",
     "src/content/posts/public/assets/601cf5c6ae12e9ec8ddc12fd628f3c51.png",
     "src/content/posts/public/assets/f3eca6c61a15faa18688772781463ec8.png",
     "src/content/posts/public/assets/bd6b5c961e35d6b87cce7308209f0f68.png",
