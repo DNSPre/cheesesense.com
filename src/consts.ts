@@ -2,8 +2,8 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Base Page Metadata, src/layouts/BaseLayout.astro
-export const BRAND_NAME = "AstroMelody";
-export const SITE_TITLE = "AstroMelody";
+export const BRAND_NAME = "芝士派 CHEESESENSE";
+export const SITE_TITLE = "芝士派 CHEESESENSE";
 export const SITE_DESCRIPTION = "An Astro Theme for Visual Storytelling";
 export const LIGHT_THEME = 'corporate';
 export const DARK_THEME = 'halloween';
